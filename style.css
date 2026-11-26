@@ -156,3 +156,50 @@ body {
   width: 100%;
   height: 620px;
 }   
+/*---------------2----------------*/
+.section2 {
+  width: 100%;
+  background-color: #FEF9F2;
+  padding: 70px 20px;
+}
+
+.sec2-in {
+  max-width: 1300px;
+  margin: 0 auto;
+}
+
+.sec2-list {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 30px;
+}
+
+.sec2-item {
+  text-align: center;
+}
+
+.sec2-num {
+  font-size: 56px;
+  line-height: 1.1;
+  font-weight: 700;
+  color: #090909;
+  margin-bottom: 12px;
+}
+
+.sec2-num span {
+  color: #ffa000;
+}
+
+.sec2-text {
+  font-size: 16px;
+  color: #6E6E6E;
+}
+
+.sec2-line {
+  width: 100%;
+  height: 1px;
+  background-color: #E8DFD5;
+  margin-top: 70px;
+}
+/*-----------------3------------------*/
